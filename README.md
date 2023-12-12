@@ -1,7 +1,7 @@
 
 # Tic-Tac-Toe Game
 
-![Tic-Tac-Toe](\planning\plannig_X_O_game.png)
+![Tic-Tac-Toe](planning/plannig_X_O_game.png)
 
 ## Description
 
@@ -45,14 +45,14 @@ This is a simple implementation of the classic Tic-Tac-Toe game using Python and
 ## Screenshots
 
 ### X Wins
-![X Wins](\images\X_wins.jpg)
+![X Wins](images/X_wins.jpg)
 
 ### O Wins
-![O Wins](\images\O_wins.jpg)
+![O Wins](images/O_wins.jpg)
 
 ### Draw Announcement
 
-![Draw](\images\tie.jpg)
+![Draw](images/tie.jpg)
 
 ## Author
 
