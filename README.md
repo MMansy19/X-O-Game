@@ -6,8 +6,7 @@ This is a simple implementation of the classic Tic-Tac-Toe game using Python and
 
 ## Video Demonstration:
 
-[![Professional-TicTacToe Demo](https://clipchamp.com/watch/E0AUm6ZKZ1N)
-
+https://clipchamp.com/watch/E0AUm6ZKZ1N
 
 ## Planning
 
