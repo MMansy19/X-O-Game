@@ -1,7 +1,7 @@
 
 # Tic-Tac-Toe Game
 
-![Tic-Tac-Toe](plannig_X_O_game.png)
+![Tic-Tac-Toe](planning\plannig_X_O_game.png)
 
 ## Description
 
@@ -20,7 +20,7 @@ This is a simple implementation of the classic Tic-Tac-Toe game using Python and
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/[Your Username]/tic-tac-toe.git
+   git clone https://github.com/MMansy19/X-O-Game.git
    ```
 
 2. Navigate to the project directory:
@@ -44,21 +44,19 @@ This is a simple implementation of the classic Tic-Tac-Toe game using Python and
 
 ## Screenshots
 
-### Player vs. Computer Gameplay
+### X Wins
+![X Wins](images\X_wins.jpg)
 
-![Player vs. Computer](images/gameplay.png)
-
-### Winner Announcement
-
-![Winner](images/winner.png)
+### O Wins
+![O Wins](images\O_wins.jpg)
 
 ### Draw Announcement
 
-![Draw](images/draw.png)
+![Draw](images\tie.jpg)
 
 ## Author
 
-- [Your Name]
+- Mahmoud Mansy
 
 ## License
 
@@ -71,4 +69,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**[X-O]** - A Tic-Tac-Toe Game by [Mahmoud-Mansy] ([GitHub](https://github.com/[Your Username]))
+**X-O** - A Tic-Tac-Toe Game by Mahmoud Mansy ([GitHub](https://github.com/MMansy19))
