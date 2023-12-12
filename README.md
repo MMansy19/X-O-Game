@@ -1,11 +1,14 @@
-
 # Tic-Tac-Toe Game
-
-![Tic-Tac-Toe](planning/plannig_X_O_game.png)
 
 ## Description
 
 This is a simple implementation of the classic Tic-Tac-Toe game using Python and the Tkinter GUI framework. The game allows you to play against a computer opponent that makes random moves.
+
+## Planning
+
+![Tic-Tac-Toe](planning/plannig_X_O_game.png)
+![PDF Documentation](planning/plannig_X_O_game_chatgpt.pdf)
+
 
 ## Features
 
