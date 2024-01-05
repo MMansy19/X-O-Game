@@ -8,7 +8,7 @@ This is a simple implementation of the classic Tic-Tac-Toe game using Python and
 
 ## Planning
 
-![PDF Documentation](planning/plannig_X_O_game_chatgpt.pdf)
+### [PDF Documentation](planning/plannig_X_O_game_chatgpt.pdf)
 
 ![Tic-Tac-Toe](planning/plannig_X_O_game.png)
 
